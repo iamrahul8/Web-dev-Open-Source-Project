@@ -1,6 +1,8 @@
 # Online Notepad📝
 A basic realtime notepad, made with HTML, CSS and Javascript.
 
+<a href="https://iamrahul8.github.io/Online-Notepad/">Click Here 👆</a> [for live demo]
+
 ## Table of contents
 - Design and Layout (Landing Page)
 - Features
