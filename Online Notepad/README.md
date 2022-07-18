@@ -12,6 +12,11 @@ A basic realtime notepad, made with HTML, CSS and Javascript.
 This Notepad is a simple responsive design that contrasts the body backdrop with a single container.
 
 In the links below, you can see pictures of the actual design that was used.
+<details>
+<summary> Landing Page View :</summary>
+<br>
+<img width="100%" src="images/"/>
+</details>
 
 
 ## Features
@@ -24,11 +29,14 @@ In the links below, you can see pictures of the actual design that was used.
 ## Built using
 
 <b>Frontend</b>
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>Javascript</li>
-</ul>
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 <b>Backend<b>
 <ul>
