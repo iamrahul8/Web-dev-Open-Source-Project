@@ -1,1 +1,0 @@
-function sM(){var a="mailto:?subject="+escape("Text from TextEditor")+"&body="+escape(document.getElementById("TE").value);window.location.href=a};
